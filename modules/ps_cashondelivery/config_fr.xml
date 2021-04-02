@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_cashondelivery</name>
+    <displayName><![CDATA[Paiement comptant &agrave; la livraison (Cash on delivery)]]></displayName>
+    <version><![CDATA[1.0.6]]></version>
+    <description><![CDATA[Permet d&#039;accepter le paiement &agrave; la livraison (contre-remboursement)]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

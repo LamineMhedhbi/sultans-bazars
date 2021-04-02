@@ -1,0 +1,27 @@
+{shop_url}
+
+Merhaba Sayın {firstname} {lastname},
+
+{shop_name} mağazasında bir müşteri hesabı oluşturduğunuz için teşekkür ederiz.
+
+Your login details on {shop_name}
+
+Giriş bilgileriniz:
+
+Eposta adresi: {email}
+
+Önemli Güvenlik İpuçları:
+
+1. Her zaman hesap bilgilerinizi güvende tutun.
+
+2. Giriş bilgilerinizi kesinlikle kimseyle paylaşmayın.
+
+3. Parolanızı düzenli olarak değiştirin.
+
+4. Birinin hesabınızı yasa dışı kullandığından şüphelenmeniz halinde derhal bize bildirmenizi rica ederiz.
+
+Şimdi mağazamızdan sipariş verebilirsiniz: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

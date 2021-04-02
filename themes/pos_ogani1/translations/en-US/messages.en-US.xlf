@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\posspecialproducts\posspecialproducts.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="c91e4ee170226d66e90f99ba917e4c20">
+        <source>Quick view</source>
+        <target>Quick view</target>
+        <note>Context:
+File: F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\posspecialproducts\posspecialproducts.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="c512b685438f41daa7386329a3b8f8d3">
+        <source>Daily</source>
+        <target>Daily</target>
+        <note>Context:
+File: F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\posspecialproducts\posspecialproducts.tpl:44</note>
+      </trans-unit>
+      <trans-unit id="d6ab0ea8f96d1a1f3cdc4f5110d2e45e">
+        <source>Deals</source>
+        <target>Deals</target>
+        <note>Context:
+File: F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\posspecialproducts\posspecialproducts.tpl:45</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\posspecialproducts\posspecialproducts_side.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="588907ab2d492aca0b07b5bf9c931eea">
+        <source>On sale</source>
+        <target>On sale</target>
+        <note>Context:
+File: F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\posspecialproducts\posspecialproducts_side.tpl:5</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\postabcateslider\views\templates\admin\_configure\helpers\form\form.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="92fbf0e5d97b8afd7e73126b52bdc4bb">
+        <source>Choose a file</source>
+        <target>Choose a file</target>
+        <note>Context:
+File: F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\postabcateslider\views\templates\admin\_configure\helpers\form\form.tpl:42</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\postabcateslider\views\templates\hook\categories-tree.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="99078a8f3786817fbaa593c08ff04a5d">
+        <source>Select categories</source>
+        <target>Select categories</target>
+        <note>Context:
+File: F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\postabcateslider\views\templates\hook\categories-tree.tpl:5</note>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Save</target>
+        <note>Context:
+File: F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\postabcateslider\views\templates\hook\categories-tree.tpl:13</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\postabcateslider\views\templates\hook\postabcateslider.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="86024cad1e83101d97359d7351051156">
+        <source>products</source>
+        <target>products</target>
+        <note>Context:
+File: F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\postabcateslider\views\templates\hook\postabcateslider.tpl:19</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\xipblogdisplayposts\views\templates\front\xipblogdisplayleftposts.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="a5c22ff3efbced22c34bd7b7dd482a6d">
+        <source><![CDATA[Read More >>]]></source>
+        <target><![CDATA[Read More >>]]></target>
+        <note>Context:
+File: F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\xipblogdisplayposts\views\templates\front\xipblogdisplayleftposts.tpl:27</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\xipblogdisplayposts\views\templates\front\xipblogdisplayposts.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="187b60ac731adde874b77f25f22f5df3">
+        <source>No Blog Post Found</source>
+        <target>No Blog Post Found</target>
+        <note>Context:
+File: F:\xampp\htdocs\posthemes\pos_ogani\themes\pos_ogani1\modules\xipblogdisplayposts\views\templates\front\xipblogdisplayposts.tpl:91</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

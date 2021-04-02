@@ -1,0 +1,41 @@
+{shop_url}
+
+Merhaba Sayın {firstname} {lastname},
+
+Thank you for shopping on {shop_name}!
+
+Sipariş detayları
+
+Sipariş: {order_name} Sipariş tarihi {date}
+
+Ödeme: {payment}
+
+Referans	Ürün	Birim fiyat	Adet	Toplam fiyat  {products_txt} {discounts_txt}
+Ürünler	{total_products}
+İndirimler	{total_discounts}
+Hediye paketi	{total_wrapping}
+Kargolama	{total_shipping}
+Including total tax	{total_tax_paid}
+Toplam ödeme	{total_paid}
+
+Kargolama
+
+Kargo firması: {carrier}
+
+Ödeme: {payment}
+
+Teslimat adresi
+
+{delivery_block_txt}
+
+Fatura adresi
+
+{invoice_block_txt}
+
+Follow your order and download your invoice on our shop, go to the [Sipariş geçmişi ve detaylar]({history_url}) section of your customer account.
+
+If you have a guest account, you can follow your order via the [Ziyaretçi Takibi]({guest_tracking_url}) section on our shop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

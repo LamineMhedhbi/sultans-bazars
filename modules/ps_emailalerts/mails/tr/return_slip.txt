@@ -1,0 +1,29 @@
+{shop_url}
+
+Selam,
+
+{shop_name} için yeni bir iade talebi aldınız.
+
+İade Ayrıntıları
+
+Sipariş: {order_name} Sipariş tarihi {date}
+
+Müşteri: {firstname} {lastname}, ({email})
+
+Referans	Ürün	Adet   {items}
+
+Teslimat adresi
+
+{delivery_block_html}
+
+Fatura adresi
+
+{invoice_block_html}
+
+Müşteri mesajı:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

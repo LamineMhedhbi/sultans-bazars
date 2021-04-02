@@ -1,0 +1,41 @@
+{shop_url}
+
+Tebrikler!
+
+A new order was placed on {shop_name} by the following customer: {firstname} {lastname} ({email})
+
+Sipariş detayları
+
+Sipariş: {order_name} Sipariş tarihi {date}
+
+Ödeme: {payment}
+
+Referans	Ürün	Birim fiyat	Adet	Toplam fiyat   {items}
+Ürünler	{total_products}
+İndirimler	{total_discounts}
+Hediye paketi	{total_wrapping}
+Kargolama	{total_shipping}
+Including total tax	{total_tax_paid}
+Toplam ödeme	{total_paid}
+
+Kargo firması
+
+Kargo firması: {carrier}
+
+Ödeme: {payment}
+
+Teslimat adresi
+
+{delivery_block_html}
+
+Fatura adresi
+
+{invoice_block_html}
+
+Müşteri mesajı:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

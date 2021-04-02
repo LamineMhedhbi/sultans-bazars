@@ -1,0 +1,17 @@
+{shop_url}
+
+Merhaba Sayın {firstname} {lastname},
+
+Message from customer
+
+Belirtilen referanslı siparişiniz ile ilgili mesajınız var {order_name}.
+
+Müşteri: {firstname} {lastname} ({email})
+
+Müşteri mesajı:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'sultans_baz',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'ebfa7hAbjkb0YQpYjrYPS5G7GnwZrVv2WxhjgKgAuWj8EAViddScWYmIMSqRvPfn',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-03-26',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'dqPMqre9zOzFNRk410Th8LUGExSj5ReYcCZwn4uqCqOWoamNtrjDPQzi46V1Oj4t',
+    'cookie_iv' => 'E77pWu5BNkYUijhnN60FddXKVhY3GVTr',
+    'new_cookie_key' => 'def000009b20064a603409f622fde2b827f08fd16d604736e80a4b35590eb0774671582be02b1631e18162d4009c1f5cd36e619241fbe1fd078bce5058d462dd4335dc99',
+  ),
+);

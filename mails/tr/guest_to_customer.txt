@@ -1,0 +1,18 @@
+{shop_url}
+
+Merhaba Sayın {firstname} {lastname},
+
+Your guest account has been turned into a customer account
+
+Congratulations, your guest account for {shop_name} has been turned into a customer account!
+
+Eposta adresi: {email}
+
+Parolanızı belirlemek için aşağıdaki bağlantıya tıklayın:
+{url}
+
+Mağazada bulunan müşteri hesabınıza erişebilirsiniz: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
